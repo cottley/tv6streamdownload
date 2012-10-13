@@ -1,1 +1,1 @@
-Download Trinidad and Tobago TV6 stream dataon Linux via shell script and rtmpdump.
+Download Trinidad and Tobago TV6 stream data on Linux via shell script and rtmpdump.
